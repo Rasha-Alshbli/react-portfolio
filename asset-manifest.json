@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rasha-Alshbli/react-portfolio.git/static/css/main.72e3ec9c.css",
+    "main.js": "/Rasha-Alshbli/react-portfolio.git/static/js/main.27f2a5fb.js",
+    "static/media/realestate.jpg": "/Rasha-Alshbli/react-portfolio.git/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/Rasha-Alshbli/react-portfolio.git/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/bootstrap.png": "/Rasha-Alshbli/react-portfolio.git/static/media/bootstrap.f132cb791703420e69ca.png",
+    "static/media/react.png": "/Rasha-Alshbli/react-portfolio.git/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/logo1.png": "/Rasha-Alshbli/react-portfolio.git/static/media/logo1.7ed42caf1761f7568a18.png",
+    "static/media/github.png": "/Rasha-Alshbli/react-portfolio.git/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Rasha-Alshbli/react-portfolio.git/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Rasha-Alshbli/react-portfolio.git/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Rasha-Alshbli/react-portfolio.git/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Rasha-Alshbli/react-portfolio.git/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Rasha-Alshbli/react-portfolio.git/index.html",
+    "main.72e3ec9c.css.map": "/Rasha-Alshbli/react-portfolio.git/static/css/main.72e3ec9c.css.map",
+    "main.27f2a5fb.js.map": "/Rasha-Alshbli/react-portfolio.git/static/js/main.27f2a5fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e3ec9c.css",
+    "static/js/main.27f2a5fb.js"
+  ]
+}
